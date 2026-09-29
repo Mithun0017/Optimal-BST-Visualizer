@@ -53,8 +53,8 @@ sudo apt install python3-tk
 ```
 
 ```bash
-git clone https://github.com/Mithun0017/optimal-bst-visualizer.git
-cd optimal-bst-visualizer
+git clone https://github.com/Mithun0017/Optimal-BST-Visualizer.git
+cd Optimal-BST-Visualizer
 python obst_visualizer.py
 ```
 
@@ -65,18 +65,6 @@ python obst_visualizer.py
 3. Click **▶ Run OBST**.
 4. Explore the **Tree Comparison**, **DP Matrix** and **Algorithm Trace** tabs.
 
-## 📁 Project structure
-
-```
-optimal-bst-visualizer/
-├── obst_visualizer.py        # Algorithm + Tkinter GUI (single file)
-├── docs/
-│   ├── DAA_PROJECT_REPORT.pdf
-│   └── screenshots/
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
 
 Inside `obst_visualizer.py`:
 
@@ -95,20 +83,7 @@ Inside `obst_visualizer.py`:
 - The Frequency/Probability toggle is currently cosmetic. Costs are normalised by the total, so both modes give the same result.
 - Only successful searches are modelled (no dummy-key/failure probabilities as in CLRS).
 
-## 🔭 Future work
-
-- Knuth's optimisation to bring the algorithm down to O(n²)
-- Import keys and frequencies from CSV
-- Export trees and tables as images
-- Failure-probability (dummy key) support
-
 ## 👥 Authors
 
-- **Mithun T** ([@Mithun0017](https://github.com/Mithun0017))
-- **Varshini**
+- **Mithun** ([@Mithun0017](https://github.com/Mithun0017))
 
-Guided by **Dr. C. Shanmuganathan, M.E., Ph.D.**, Assistant Professor, CSE, SRM IST Ramapuram.
-
-## 📄 License
-
-Released under the [MIT License](LICENSE).
