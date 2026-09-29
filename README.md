@@ -83,7 +83,7 @@ Inside `obst_visualizer.py`:
 - The Frequency/Probability toggle is currently cosmetic. Costs are normalised by the total, so both modes give the same result.
 - Only successful searches are modelled (no dummy-key/failure probabilities as in CLRS).
 
-## 👥 Authors
+## 👥 Author
 
 - **Mithun** ([@Mithun0017](https://github.com/Mithun0017))
 
