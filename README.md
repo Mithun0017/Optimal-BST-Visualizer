@@ -2,9 +2,9 @@
 
 An interactive desktop app that builds an **Optimal Binary Search Tree (OBST)** using **Dynamic Programming**, then compares it against a standard balanced BST, with a colour-coded DP matrix and a step-by-step algorithm trace.
 
-Built with **Python + Tkinter** (no third-party dependencies) as a mini-project for *21CSC204J – Design & Analysis of Algorithms*, SRM Institute of Science and Technology, Ramapuram Campus.
+Built with **Python + Tkinter** (no third-party dependencies)
 
-![Tree comparison](docs/screenshots/tree-comparison.png)
+![Tree comparison](screenshots/tree-comparison.png)
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ Built with **Python + Tkinter** (no third-party dependencies) as a mini-project 
 
 | DP Matrix | Algorithm Trace |
 |---|---|
-| ![DP matrix](docs/screenshots/dp-matrix.png) | ![Algorithm trace](docs/screenshots/algorithm-trace.png) |
+| ![DP matrix](screenshots/dp-matrix.png) | ![Algorithm trace](screenshots/algorithm-trace.png) |
 
 ## 🧠 How it works
 
